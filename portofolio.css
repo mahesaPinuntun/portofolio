@@ -141,7 +141,7 @@ main{
     #barkir{
         
         width: 145px;
-        height: 100%;
+        height: 200%;
     }
     
     #barkir ul li button h3{
@@ -206,7 +206,7 @@ main{
     #barkir{
         width: 80px;
         
-        height: 100%;
+        height: 200%;
 
     }
     .circle {
@@ -255,7 +255,7 @@ main{
     }
     main{
     
-        margin-top:100px;
+        
         width: 96%;
         margin: 100px auto;
     }
